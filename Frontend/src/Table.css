@@ -1,0 +1,63 @@
+#MyForm{
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;  
+    color: #5D6D97; 
+}
+
+.form-header{
+    display:flex; 
+    
+}
+
+#form-id{
+    margin-left: 343px;
+}
+
+#form-date-regist{
+    margin-left: 385px;
+}
+
+#form-date-lastAct{
+    margin-left: 322px;
+
+}
+
+.form-body{
+    margin-left: 343px;
+}
+
+.form-body input{
+
+    color: #5D6D97;
+
+}
+
+.inputDateReg{
+    margin-left: 385px;
+}
+
+.inputDateLast{
+    margin-left: 255px;
+}
+
+.button-section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.button-section button{
+    border: none;    
+}
+
+.btnAdd{
+    margin-left: 337px;
+    
+}
+
+.btnSubmit{
+    margin-right: 327px;
+}
